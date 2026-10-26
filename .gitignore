@@ -1,0 +1,12 @@
+# Python virtual environment (machine-local, never commit)
+.venv/
+
+# Python bytecode caches
+__pycache__/
+*.py[cod]
+
+# Generated outputs (submissions, plots, saved models -- reproducible from src/)
+output/
+
+# macOS
+.DS_Store
